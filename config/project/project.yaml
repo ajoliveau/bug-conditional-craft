@@ -1,0 +1,30 @@
+dateModified: 1730396418
+email:
+  fromEmail: support@akufen.ca
+  fromName: 'Test bug craft'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7b15728e-19f1-4195-81f0-5d0656b44c57: Page # Page
+    541b2121-af3f-4576-a1a9-bb7a9a50d0b3: Condtional # Condtional
+    4528f321-cffc-46ae-b89a-8b6956271988: 'Text OFF' # Text OFF
+    4568d78b-06d8-4119-8e75-39932526f3f7: 'Test bug craft' # Test bug craft
+    589790d0-ad38-4c42-996e-d0c6dfa8a673: 'Test bug craft' # Test bug craft
+    adc0d524-01bd-4bb3-8f35-ba91943efb90: 'Text ON' # Text ON
+    da714b55-a04c-4269-85fd-7ab743a0bf2b: Switch # Switch
+    de1bee1c-fb26-4274-8430-e7db93649807: Default # Default
+    e6df5007-e040-4014-b74c-6addcb50730a: Matrix # Matrix
+    edf4e300-3145-4f61-908d-262ea02dcaa4: 'Text only' # Text only
+system:
+  edition: solo
+  live: true
+  name: 'Test bug craft'
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

@@ -1,0 +1,21 @@
+columnSuffix: null
+handle: matrix
+instructions: null
+name: Matrix
+searchable: false
+settings:
+  createButtonLabel: null
+  entryTypes:
+    - edf4e300-3145-4f61-908d-262ea02dcaa4 # Text only
+    - 541b2121-af3f-4576-a1a9-bb7a9a50d0b3 # Condtional
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: blocks
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

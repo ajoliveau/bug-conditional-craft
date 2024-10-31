@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - de1bee1c-fb26-4274-8430-e7db93649807 # Default
+handle: page
+maxAuthors: 1
+name: Page
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  589790d0-ad38-4c42-996e-d0c6dfa8a673: # Test bug craft
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'page/{slug}'
+type: channel
